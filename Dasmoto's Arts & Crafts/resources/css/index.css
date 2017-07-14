@@ -1,0 +1,47 @@
+* {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushesTitle {
+  background-color: mediumspringgreen;
+}
+
+.framesTitle {
+  background-color: lightcoral;
+}
+
+.paintTitle {
+  background-color: skyblue;
+}
+
+.brushes {
+  font-weight: bold;
+  color: blue;
+}
+
+.frames {
+  font-weight: bold;
+  color: blue;
+}
+
+.tube {
+  font-weight: bold;
+  color: blue;
+}
