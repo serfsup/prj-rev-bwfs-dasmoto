@@ -31,17 +31,7 @@ h2 {
   background-color: skyblue;
 }
 
-.brushes {
-  font-weight: bold;
-  color: blue;
-}
-
-.frames {
-  font-weight: bold;
-  color: blue;
-}
-
-.tube {
+.brushes, .frames, .tube {
   font-weight: bold;
   color: blue;
 }
